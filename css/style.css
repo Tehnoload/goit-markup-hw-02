@@ -79,6 +79,7 @@ a {
   letter-spacing: 0.06em;
   color: #ffffff;
   background-color: var(--accent-color);
+  cursor: pointer;
 }
 .button-title:hover,
 .button-title:focus,
@@ -177,6 +178,7 @@ a {
   letter-spacing: 0.03em;
   color: var(--title-text-color);
   border-color: #f5f4fa;
+  cursor: pointer;
 }
 .button:hover,
 button:focus,
