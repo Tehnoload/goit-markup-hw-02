@@ -125,6 +125,10 @@ a {
   letter-spacing: 0.03em;
   color: var(--primary-text-color);
 }
+/* Наша команда */
+.command {
+  background-color: #d9d9d9;
+}
 /* Підвал */
 .footer {
   background-color: #2f303a;
@@ -179,7 +183,8 @@ a {
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--title-text-color);
-  border-color: #f5f4fa;
+  border-color: 1px solid #000000;
+  background-color: ##d9d9d9;
   cursor: pointer;
 }
 .button:hover,
